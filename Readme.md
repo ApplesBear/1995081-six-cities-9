@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
-* Студент: [Татьяна](https://up.htmlacademy.ru/react/9/user/1995081).
-* Наставник: `Неизвестно`.
+- Студент: [Татьяна](https://up.htmlacademy.ru/react/9/user/1995081).
+- Наставник: [Дмитрий (sench) Железцов](https://htmlacademy.ru/profile/id983299).
 
 ---
 
